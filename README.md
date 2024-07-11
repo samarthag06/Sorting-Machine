@@ -24,4 +24,4 @@ The Sorting Machine project is designed to automate the sorting of objects based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/samarthag06/Sorting-Machine.git
